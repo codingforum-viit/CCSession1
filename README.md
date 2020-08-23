@@ -6,6 +6,8 @@ Resources for getting starting with competative programming for begineers
 - [GFG stl guide](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Practice GFG](https://practice.geeksforgeeks.org/home/)
+- [TopCoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- [HackerEarth](https://www.hackerearth.com/practice/)
 
 
 ### Some Questions:
